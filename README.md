@@ -13,8 +13,7 @@ How can we make use of the different characteristics present in a user to predic
 # Methodology
 
 ## Data Collection & Cleaning
-Initially, we believed social media would have a strong impact on mental health. 
-Link to dataset: 
+Initially, we believed social media would have a strong impact on mental health.  
 
 ## Exploratory Analysis 
 After using visualisation tools such as boxplots, we realised  the correlation between social media and mental health was not as significant. Other factors displayed higher correlation with mental health issues.
@@ -49,9 +48,9 @@ Most Relevant Predictors:
 We hope that our model would serve to improve the mental health issues plaguing our world through early detection
 
 # Contributors
-@cheokerinos
-@ichinggg
-@hildil
+@cheokerinos: Data Cleaning & Exploratory Analysis
+@ichinggg: ML & Predictive Analytics
+@hildil: ML & Predictive Analytics
 
 # Source of dataset
 https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health 
