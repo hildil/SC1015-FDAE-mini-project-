@@ -52,3 +52,6 @@ We hope that our model would serve to improve the mental health issues plaguing 
 @cheokerinos
 @ichinggg
 @hildil
+
+# Source of dataset
+https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health 
